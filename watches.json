@@ -1,182 +1,292 @@
 [
-    {
-        "id": 1,
-        "name": "Rolex Submariner",
-        "description": "A legendary diving watch known for its robustness and timeless design.",
-        "price": 9500.00,
-        "isWaterResistant": true,
-        "releaseDate": "1953-01-01",
-        "imageUrl": "https://example.com/images/rolex-submariner.jpg",
-        "watchType": "diving",
-        "features": ["300m water resistance", "unidirectional bezel", "ceramic insert"],
-        "manufacturer": {
-            "id": 101,
-            "name": "Rolex",
-            "isCertified": true,
-            "yearFounded": 1905,
-            "logoUrl": "https://example.com/logos/rolex.jpg"
-        }
-    },
-    {
-        "id": 2,
-        "name": "Omega Speedmaster Moonwatch",
-        "description": "The first watch worn on the moon, known for its chronograph functionality.",
-        "price": 6300.00,
-        "isWaterResistant": true,
-        "releaseDate": "1957-01-01",
-        "imageUrl": "https://example.com/images/omega-speedmaster.jpg",
-        "watchType": "chronograph",
-        "features": ["moonwatch heritage", "tachymeter", "manual winding"],
-        "manufacturer": {
-            "id": 102,
-            "name": "Omega",
-            "isCertified": true,
-            "yearFounded": 1848,
-            "logoUrl": "https://example.com/logos/omega.jpg"
-        }
-    },
-    {
-        "id": 3,
-        "name": "Tag Heuer Monaco",
-        "description": "A square-shaped chronograph made famous by Steve McQueen in the movie 'Le Mans'.",
-        "price": 7200.00,
-        "isWaterResistant": true,
-        "releaseDate": "1969-01-01",
-        "imageUrl": "https://example.com/images/tag-heuer-monaco.jpg",
-        "watchType": "racing",
-        "features": ["square case", "chronograph", "sapphire crystal"],
-        "manufacturer": {
-            "id": 103,
-            "name": "Tag Heuer",
-            "isCertified": true,
-            "yearFounded": 1860,
-            "logoUrl": "https://example.com/logos/tag-heuer.jpg"
-        }
-    },
-    {
-        "id": 4,
-        "name": "Patek Philippe Nautilus",
-        "description": "A luxury sports watch with an iconic porthole design.",
-        "price": 45000.00,
-        "isWaterResistant": true,
-        "releaseDate": "1976-01-01",
-        "imageUrl": "https://example.com/images/patek-nautilus.jpg",
-        "watchType": "luxury",
-        "features": ["stainless steel case", "integrated bracelet", "screw-down crown"],
-        "manufacturer": {
-            "id": 104,
-            "name": "Patek Philippe",
-            "isCertified": true,
-            "yearFounded": 1839,
-            "logoUrl": "https://example.com/logos/patek-philippe.jpg"
-        }
-    },
-    {
-        "id": 5,
-        "name": "Seiko SKX007",
-        "description": "A highly popular and affordable diving watch loved by enthusiasts.",
-        "price": 250.00,
-        "isWaterResistant": true,
-        "releaseDate": "1996-01-01",
-        "imageUrl": "https://example.com/images/seiko-skx007.jpg",
-        "watchType": "diving",
-        "features": ["200m water resistance", "automatic movement", "day-date display"],
-        "manufacturer": {
-            "id": 105,
-            "name": "Seiko",
-            "isCertified": true,
-            "yearFounded": 1881,
-            "logoUrl": "https://example.com/logos/seiko.jpg"
-        }
-    },
-    {
-        "id": 6,
-        "name": "Audemars Piguet Royal Oak",
-        "description": "A luxury sports watch with a distinctive octagonal bezel.",
-        "price": 22000.00,
-        "isWaterResistant": true,
-        "releaseDate": "1972-01-01",
-        "imageUrl": "https://example.com/images/audemars-royal-oak.jpg",
-        "watchType": "luxury",
-        "features": ["integrated bracelet", "tapisserie dial", "screw-locked crown"],
-        "manufacturer": {
-            "id": 106,
-            "name": "Audemars Piguet",
-            "isCertified": true,
-            "yearFounded": 1875,
-            "logoUrl": "https://example.com/logos/audemars-piguet.jpg"
-        }
-    },
-    {
-        "id": 7,
-        "name": "Casio G-Shock DW-5600",
-        "description": "A rugged and durable digital watch known for its shock resistance.",
-        "price": 99.99,
-        "isWaterResistant": true,
-        "releaseDate": "1983-01-01",
-        "imageUrl": "https://example.com/images/casio-gshock.jpg",
-        "watchType": "sport",
-        "features": ["shock resistance", "200m water resistance", "stopwatch"],
-        "manufacturer": {
-            "id": 107,
-            "name": "Casio",
-            "isCertified": true,
-            "yearFounded": 1946,
-            "logoUrl": "https://example.com/logos/casio.jpg"
-        }
-    },
-    {
-        "id": 8,
-        "name": "Breitling Navitimer",
-        "description": "A pilot's watch with a built-in slide rule for aviation calculations.",
-        "price": 8500.00,
-        "isWaterResistant": true,
-        "releaseDate": "1952-01-01",
-        "imageUrl": "https://example.com/images/breitling-navitimer.jpg",
-        "watchType": "aviation",
-        "features": ["slide rule bezel", "chronograph", "sapphire crystal"],
-        "manufacturer": {
-            "id": 108,
-            "name": "Breitling",
-            "isCertified": true,
-            "yearFounded": 1884,
-            "logoUrl": "https://example.com/logos/breitling.jpg"
-        }
-    },
-    {
-        "id": 9,
-        "name": "Tudor Black Bay",
-        "description": "A vintage-inspired diving watch with a modern twist.",
-        "price": 3500.00,
-        "isWaterResistant": true,
-        "releaseDate": "2012-01-01",
-        "imageUrl": "https://example.com/images/tudor-black-bay.jpg",
-        "watchType": "diving",
-        "features": ["snowflake hands", "200m water resistance", "in-house movement"],
-        "manufacturer": {
-            "id": 109,
-            "name": "Tudor",
-            "isCertified": true,
-            "yearFounded": 1926,
-            "logoUrl": "https://example.com/logos/tudor.jpg"
-        }
-    },
-    {
-        "id": 10,
-        "name": "Jaeger-LeCoultre Reverso",
-        "description": "A classic art deco watch with a reversible case.",
-        "price": 7000.00,
-        "isWaterResistant": false,
-        "releaseDate": "1931-01-01",
-        "imageUrl": "https://example.com/images/jaeger-reverso.jpg",
-        "watchType": "dress",
-        "features": ["reversible case", "manual winding", "art deco design"],
-        "manufacturer": {
-            "id": 110,
-            "name": "Jaeger-LeCoultre",
-            "isCertified": true,
-            "yearFounded": 1833,
-            "logoUrl": "https://example.com/logos/jaeger-lecoultre.jpg"
-        }
+  {
+    "id": 1,
+    "name": "Rolex Submariner",
+    "description": "A legendary diving watch known for its robustness and timeless design.",
+    "price": 9500.0,
+    "isWaterResistant": true,
+    "releaseDate": "1953-01-01",
+    "imageUrl": "https://example.com/images/rolex-submariner.jpg",
+    "watchType": "diving",
+    "features": [
+      "300m water resistance",
+      "unidirectional bezel",
+      "ceramic insert"
+    ],
+    "manufacturer": {
+      "id": 101,
+      "name": "Rolex",
+      "isCertified": true,
+      "yearFounded": 1905,
+      "logoUrl": "https://example.com/logos/rolex.jpg"
     }
+  },
+  {
+    "id": 2,
+    "name": "Omega Speedmaster Moonwatch",
+    "description": "The first watch worn on the moon, known for its chronograph functionality.",
+    "price": 6300.0,
+    "isWaterResistant": true,
+    "releaseDate": "1957-01-01",
+    "imageUrl": "https://example.com/images/omega-speedmaster.jpg",
+    "watchType": "chronograph",
+    "features": ["moonwatch heritage", "tachymeter", "manual winding"],
+    "manufacturer": {
+      "id": 102,
+      "name": "Omega",
+      "isCertified": true,
+      "yearFounded": 1848,
+      "logoUrl": "https://example.com/logos/omega.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Tag Heuer Monaco",
+    "description": "A square-shaped chronograph made famous by Steve McQueen in the movie 'Le Mans'.",
+    "price": 7200.0,
+    "isWaterResistant": true,
+    "releaseDate": "1969-01-01",
+    "imageUrl": "https://example.com/images/tag-heuer-monaco.jpg",
+    "watchType": "racing",
+    "features": ["square case", "chronograph", "sapphire crystal"],
+    "manufacturer": {
+      "id": 103,
+      "name": "Tag Heuer",
+      "isCertified": true,
+      "yearFounded": 1860,
+      "logoUrl": "https://example.com/logos/tag-heuer.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Patek Philippe Nautilus",
+    "description": "A luxury sports watch with an iconic porthole design.",
+    "price": 45000.0,
+    "isWaterResistant": true,
+    "releaseDate": "1976-01-01",
+    "imageUrl": "https://example.com/images/patek-nautilus.jpg",
+    "watchType": "luxury",
+    "features": [
+      "stainless steel case",
+      "integrated bracelet",
+      "screw-down crown"
+    ],
+    "manufacturer": {
+      "id": 104,
+      "name": "Patek Philippe",
+      "isCertified": true,
+      "yearFounded": 1839,
+      "logoUrl": "https://example.com/logos/patek-philippe.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Seiko SKX007",
+    "description": "A highly popular and affordable diving watch loved by enthusiasts.",
+    "price": 250.0,
+    "isWaterResistant": true,
+    "releaseDate": "1996-01-01",
+    "imageUrl": "https://example.com/images/seiko-skx007.jpg",
+    "watchType": "diving",
+    "features": [
+      "200m water resistance",
+      "automatic movement",
+      "day-date display"
+    ],
+    "manufacturer": {
+      "id": 105,
+      "name": "Seiko",
+      "isCertified": true,
+      "yearFounded": 1881,
+      "logoUrl": "https://example.com/logos/seiko.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Audemars Piguet Royal Oak",
+    "description": "A luxury sports watch with a distinctive octagonal bezel.",
+    "price": 22000.0,
+    "isWaterResistant": true,
+    "releaseDate": "1972-01-01",
+    "imageUrl": "https://example.com/images/audemars-royal-oak.jpg",
+    "watchType": "luxury",
+    "features": [
+      "integrated bracelet",
+      "tapisserie dial",
+      "screw-locked crown"
+    ],
+    "manufacturer": {
+      "id": 106,
+      "name": "Audemars Piguet",
+      "isCertified": true,
+      "yearFounded": 1875,
+      "logoUrl": "https://example.com/logos/audemars-piguet.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Casio G-Shock DW-5600",
+    "description": "A rugged and durable digital watch known for its shock resistance.",
+    "price": 99.99,
+    "isWaterResistant": true,
+    "releaseDate": "1983-01-01",
+    "imageUrl": "https://example.com/images/casio-gshock.jpg",
+    "watchType": "sport",
+    "features": ["shock resistance", "200m water resistance", "stopwatch"],
+    "manufacturer": {
+      "id": 107,
+      "name": "Casio",
+      "isCertified": true,
+      "yearFounded": 1946,
+      "logoUrl": "https://example.com/logos/casio.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Breitling Navitimer",
+    "description": "A pilot's watch with a built-in slide rule for aviation calculations.",
+    "price": 8500.0,
+    "isWaterResistant": true,
+    "releaseDate": "1952-01-01",
+    "imageUrl": "https://example.com/images/breitling-navitimer.jpg",
+    "watchType": "aviation",
+    "features": ["slide rule bezel", "chronograph", "sapphire crystal"],
+    "manufacturer": {
+      "id": 108,
+      "name": "Breitling",
+      "isCertified": true,
+      "yearFounded": 1884,
+      "logoUrl": "https://example.com/logos/breitling.jpg"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Tudor Black Bay",
+    "description": "A vintage-inspired diving watch with a modern twist.",
+    "price": 3500.0,
+    "isWaterResistant": true,
+    "releaseDate": "2012-01-01",
+    "imageUrl": "https://example.com/images/tudor-black-bay.jpg",
+    "watchType": "diving",
+    "features": [
+      "snowflake hands",
+      "200m water resistance",
+      "in-house movement"
+    ],
+    "manufacturer": {
+      "id": 109,
+      "name": "Tudor",
+      "isCertified": true,
+      "yearFounded": 1926,
+      "logoUrl": "https://example.com/logos/tudor.jpg"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Jaeger-LeCoultre Reverso",
+    "description": "A classic art deco watch with a reversible case.",
+    "price": 7000.0,
+    "isWaterResistant": false,
+    "releaseDate": "1931-01-01",
+    "imageUrl": "https://example.com/images/jaeger-reverso.jpg",
+    "watchType": "dress",
+    "features": ["reversible case", "manual winding", "art deco design"],
+    "manufacturer": {
+      "id": 110,
+      "name": "Jaeger-LeCoultre",
+      "isCertified": true,
+      "yearFounded": 1833,
+      "logoUrl": "https://example.com/logos/jaeger-lecoultre.jpg"
+    }
+  },
+  {
+    "id": 11,
+    "name": "IWC Portugieser",
+    "description": "A classic dress watch with a clean dial and elegant design.",
+    "price": 12000.0,
+    "isWaterResistant": false,
+    "releaseDate": "1939-01-01",
+    "imageUrl": "https://example.com/images/iwc-portugieser.jpg",
+    "watchType": "dress",
+    "features": ["minimalist dial", "sapphire crystal", "manual winding"],
+    "manufacturer": {
+      "id": 111,
+      "name": "IWC Schaffhausen",
+      "isCertified": true,
+      "yearFounded": 1868,
+      "logoUrl": "https://example.com/logos/iwc.jpg"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Panerai Luminor",
+    "description": "A bold and distinctive dive watch with a cushion-shaped case.",
+    "price": 9000.0,
+    "isWaterResistant": true,
+    "releaseDate": "1950-01-01",
+    "imageUrl": "https://example.com/images/panerai-luminor.jpg",
+    "watchType": "diving",
+    "features": ["cushion case", "luminous markers", "300m water resistance"],
+    "manufacturer": {
+      "id": 112,
+      "name": "Panerai",
+      "isCertified": true,
+      "yearFounded": 1860,
+      "logoUrl": "https://example.com/logos/panerai.jpg"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Hublot Big Bang",
+    "description": "A modern and bold watch with a fusion of materials and avant-garde design.",
+    "price": 15000.0,
+    "isWaterResistant": true,
+    "releaseDate": "2005-01-01",
+    "imageUrl": "https://example.com/images/hublot-big-bang.jpg",
+    "watchType": "luxury",
+    "features": ["ceramic bezel", "skeleton dial", "chronograph"],
+    "manufacturer": {
+      "id": 113,
+      "name": "Hublot",
+      "isCertified": true,
+      "yearFounded": 1980,
+      "logoUrl": "https://example.com/logos/hublot.jpg"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Longines HydroConquest",
+    "description": "A stylish and affordable diving watch with a sporty design.",
+    "price": 1200.0,
+    "isWaterResistant": true,
+    "releaseDate": "2007-01-01",
+    "imageUrl": "https://example.com/images/longines-hydroconquest.jpg",
+    "watchType": "diving",
+    "features": ["300m water resistance", "ceramic bezel", "date display"],
+    "manufacturer": {
+      "id": 114,
+      "name": "Longines",
+      "isCertified": true,
+      "yearFounded": 1832,
+      "logoUrl": "https://example.com/logos/longines.jpg"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Cartier Tank",
+    "description": "An iconic rectangular dress watch with a timeless design.",
+    "price": 5000.0,
+    "isWaterResistant": false,
+    "releaseDate": "1917-01-01",
+    "imageUrl": "https://example.com/images/cartier-tank.jpg",
+    "watchType": "dress",
+    "features": ["rectangular case", "roman numerals", "quartz movement"],
+    "manufacturer": {
+      "id": 115,
+      "name": "Cartier",
+      "isCertified": true,
+      "yearFounded": 1847,
+      "logoUrl": "https://example.com/logos/cartier.jpg"
+    }
+  }
 ]
