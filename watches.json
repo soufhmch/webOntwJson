@@ -6,7 +6,7 @@
     "price": 9500.0,
     "isWaterResistant": true,
     "releaseDate": "1953-01-01",
-    "imageUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/rolexSub.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/productFoto/rolexSub.jpg",
     "watchType": "diving",
     "features": [
       "300m water resistance",
@@ -18,7 +18,7 @@
       "name": "Rolex",
       "isCertified": true,
       "yearFounded": 1905,
-      "logoUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/Logo/rolex.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/Logo/rolex.jpg"
     }
   },
   {
@@ -28,7 +28,7 @@
     "price": 6300.0,
     "isWaterResistant": true,
     "releaseDate": "1957-01-01",
-    "imageUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/omegaSpeedmasterMoon.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/productFoto/omegaSpeedmasterMoon.jpg",
     "watchType": "chronograph",
     "features": ["moonwatch heritage", "tachymeter", "manual winding"],
     "manufacturer": {
@@ -36,7 +36,7 @@
       "name": "Omega",
       "isCertified": true,
       "yearFounded": 1848,
-      "logoUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/Logo/omega.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/Logo/omega.jpg"
     }
   },
   {
@@ -46,7 +46,7 @@
     "price": 7200.0,
     "isWaterResistant": true,
     "releaseDate": "1969-01-01",
-    "imageUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/productFoto/tagHeuerMonaco.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/productFoto/tagHeuerMonaco.jpg",
     "watchType": "racing",
     "features": ["square case", "chronograph", "sapphire crystal"],
     "manufacturer": {
@@ -54,7 +54,7 @@
       "name": "Tag Heuer",
       "isCertified": true,
       "yearFounded": 1860,
-      "logoUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/Logo/tagHeuer.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/Logo/tagHeuer.jpg"
     }
   },
   {
@@ -64,7 +64,7 @@
     "price": 45000.0,
     "isWaterResistant": true,
     "releaseDate": "1976-01-01",
-    "imageUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/productFoto/patekPhillipeNautilus.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/productFoto/patekPhillipeNautilus.jpg",
     "watchType": "luxury",
     "features": [
       "stainless steel case",
@@ -76,7 +76,7 @@
       "name": "Patek Philippe",
       "isCertified": true,
       "yearFounded": 1839,
-      "logoUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/Logo/patekPhilippe.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/Logo/patekPhilippe.jpg"
     }
   },
   {
@@ -86,7 +86,7 @@
     "price": 250.0,
     "isWaterResistant": true,
     "releaseDate": "1996-01-01",
-    "imageUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/productFoto/Seiko.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/productFoto/Seiko.jpg",
     "watchType": "diving",
     "features": [
       "200m water resistance",
@@ -98,7 +98,7 @@
       "name": "Seiko",
       "isCertified": true,
       "yearFounded": 1881,
-      "logoUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/Logo/seiko.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/Logo/seiko.jpg"
     }
   },
   {
@@ -108,7 +108,7 @@
     "price": 22000.0,
     "isWaterResistant": true,
     "releaseDate": "1972-01-01",
-    "imageUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/productFoto/APRoyalOak.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/productFoto/APRoyalOak.jpg",
     "watchType": "luxury",
     "features": [
       "integrated bracelet",
@@ -120,7 +120,7 @@
       "name": "Audemars Piguet",
       "isCertified": true,
       "yearFounded": 1875,
-      "logoUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/Logo/AP.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/Logo/AP.jpg"
     }
   },
   {
@@ -130,7 +130,7 @@
     "price": 99.99,
     "isWaterResistant": true,
     "releaseDate": "1983-01-01",
-    "imageUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/productFoto/casioG-Shocck.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/productFoto/casioG-Shocck.jpg",
     "watchType": "sport",
     "features": ["shock resistance", "200m water resistance", "stopwatch"],
     "manufacturer": {
@@ -138,7 +138,7 @@
       "name": "Casio",
       "isCertified": true,
       "yearFounded": 1946,
-      "logoUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/Logo/casio.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/Logo/casio.jpg"
     }
   },
   {
@@ -148,7 +148,7 @@
     "price": 8500.0,
     "isWaterResistant": true,
     "releaseDate": "1952-01-01",
-    "imageUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/productFoto/breitlingNavitimer.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/productFoto/breitlingNavitimer.jpg",
     "watchType": "aviation",
     "features": ["slide rule bezel", "chronograph", "sapphire crystal"],
     "manufacturer": {
@@ -156,7 +156,7 @@
       "name": "Breitling",
       "isCertified": true,
       "yearFounded": 1884,
-      "logoUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/Logo/breitling.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/Logo/breitling.jpg"
     }
   },
   {
@@ -166,7 +166,7 @@
     "price": 3500.0,
     "isWaterResistant": true,
     "releaseDate": "2012-01-01",
-    "imageUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/productFoto/tudorBlackBay.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/productFoto/tudorBlackBay.jpg",
     "watchType": "diving",
     "features": [
       "snowflake hands",
@@ -178,7 +178,7 @@
       "name": "Tudor",
       "isCertified": true,
       "yearFounded": 1926,
-      "logoUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/Logo/tudor.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/Logo/tudor.jpg"
     }
   },
   {
@@ -188,7 +188,7 @@
     "price": 7000.0,
     "isWaterResistant": false,
     "releaseDate": "1931-01-01",
-    "imageUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/productFoto/jaeger-LeCoultreReverso.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/productFoto/jaeger-LeCoultreReverso.jpg",
     "watchType": "dress",
     "features": ["reversible case", "manual winding", "art deco design"],
     "manufacturer": {
@@ -196,7 +196,7 @@
       "name": "Jaeger-LeCoultre",
       "isCertified": true,
       "yearFounded": 1833,
-      "logoUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/Logo/Jaeger-LeCoultre.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/Logo/Jaeger-LeCoultre.jpg"
     }
   },
   {
@@ -206,7 +206,7 @@
     "price": 12000.0,
     "isWaterResistant": false,
     "releaseDate": "1939-01-01",
-    "imageUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/productFoto/iwcPortugieser.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/productFoto/iwcPortugieser.jpg",
     "watchType": "dress",
     "features": ["minimalist dial", "sapphire crystal", "manual winding"],
     "manufacturer": {
@@ -214,7 +214,7 @@
       "name": "IWC Schaffhausen",
       "isCertified": true,
       "yearFounded": 1868,
-      "logoUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/Logo/iwc.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/Logo/iwc.jpg"
     }
   },
   {
@@ -224,7 +224,7 @@
     "price": 9000.0,
     "isWaterResistant": true,
     "releaseDate": "1950-01-01",
-    "imageUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/productFoto/paneraiLuminor.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/productFoto/paneraiLuminor.jpg",
     "watchType": "diving",
     "features": ["cushion case", "luminous markers", "300m water resistance"],
     "manufacturer": {
@@ -232,7 +232,7 @@
       "name": "Panerai",
       "isCertified": true,
       "yearFounded": 1860,
-      "logoUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/Logo/panerai.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/Logo/panerai.jpg"
     }
   },
   {
@@ -242,7 +242,7 @@
     "price": 15000.0,
     "isWaterResistant": true,
     "releaseDate": "2005-01-01",
-    "imageUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/productFoto/hublotBigBang.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/productFoto/hublotBigBang.jpg",
     "watchType": "luxury",
     "features": ["ceramic bezel", "skeleton dial", "chronograph"],
     "manufacturer": {
@@ -250,7 +250,7 @@
       "name": "Hublot",
       "isCertified": true,
       "yearFounded": 1980,
-      "logoUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/Logo/hublot.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/Logo/hublot.jpg"
     }
   },
   {
@@ -260,7 +260,7 @@
     "price": 1200.0,
     "isWaterResistant": true,
     "releaseDate": "2007-01-01",
-    "imageUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/productFoto/longinesHydroConquest.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/productFoto/longinesHydroConquest.jpg",
     "watchType": "diving",
     "features": ["300m water resistance", "ceramic bezel", "date display"],
     "manufacturer": {
@@ -268,7 +268,7 @@
       "name": "Longines",
       "isCertified": true,
       "yearFounded": 1832,
-      "logoUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/Logo/longines.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/Logo/longines.jpg"
     }
   },
   {
@@ -278,7 +278,7 @@
     "price": 5000.0,
     "isWaterResistant": false,
     "releaseDate": "1917-01-01",
-    "imageUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/productFoto/cartierTank.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/productFoto/cartierTank.jpg",
     "watchType": "dress",
     "features": ["rectangular case", "roman numerals", "quartz movement"],
     "manufacturer": {
@@ -286,7 +286,7 @@
       "name": "Cartier",
       "isCertified": true,
       "yearFounded": 1847,
-      "logoUrl": "https://github.com/soufhmch/webOntwJson/blob/main/assets/Logo/CARTIER.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/soufhmch/webOntwJson/main/assets/Logo/CARTIER.jpg"
     }
   }
 ]
